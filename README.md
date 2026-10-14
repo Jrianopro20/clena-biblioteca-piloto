@@ -5,9 +5,9 @@
 | Campo | Valor |
 |---|---|
 | **Curso** | Introducción a la Ingeniería de Sistemas y Computación — Universidad del Norte |
-| **Docente** | [Nombre del docente] |
+| **Docente** | Daniel Romero |
 | **Espacio del CLENA estudiado** | Biblioteca Piloto del Caribe |
-| **Fecha de la visita** | [dd/mm/2026] |
+| **Fecha de la visita** | [26/09/2026] |
 | **Sprint** | Sprint 1 — [fecha inicio] a [fecha fin] |
 
 ## Integrantes y roles
