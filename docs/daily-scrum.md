@@ -1,65 +1,18 @@
 # Daily Scrum
 
-Cada Daily dura 15 minutos como máximo, en Microsoft Teams. **Tomar captura de la llamada** y guardarla en `evidencias/evidencias-scrum/daily-N.png`.
-
-Preguntas: **¿Qué hice desde el último Daily? ¿Qué voy a hacer? ¿Tengo algún impedimento?**
-
----
-
-## Daily #1 — [dd/mm/2026]
-
-Asistentes: [ ]  · Evidencia: `evidencias/evidencias-scrum/daily-1.png`
+| Campo | Valor |
+|---|---|
+| **Fecha** | 14/10/2026 |
+| **Medio** | Microsoft Teams (llamada y chat) |
+| **Asistentes** | Juan Riaño, Iván Gómez |
+| **Reporte por escrito** | Santiago Barros, Samuel Pimienta (no pudieron conectarse) |
+| **Evidencia** | `evidencias/evidencias-scrum/02-daily-scrum.png` |
 
 | Integrante | ¿Qué hice? | ¿Qué voy a hacer? | ¿Impedimentos? |
 |---|---|---|---|
-| Santiago Barros | | | |
-| Iván Gómez | | | |
-| Samuel Pimienta | | | |
-| Juan Riaño | | | |
+| Iván Gómez | Participé en la visita al CLENA y organicé las ceremonias del sprint. | Revisar y aprobar el PR #18 y documentar las ceremonias. | Ninguno. |
+| Juan Riaño | Creé el repositorio, el GitHub Project y las tareas, y subí el análisis en el PR #18. | Terminar el informe final y la presentación. | Ninguno. |
+| Santiago Barros | Participé en la visita al CLENA y en la definición del problema del Archivo Histórico. | Revisar el problema seleccionado y la propuesta, y escribir mi reflexión individual. | No pude conectarme a la llamada; reporto por escrito. |
+| Samuel Pimienta | Participé en la visita al CLENA y en el registro de las fotos. | Revisar las descripciones de las fotos y escribir mi reflexión individual. | Solo tenemos 2 fotos de la visita porque no conocíamos los requisitos del laboratorio. |
 
-**Acuerdos:**
-
----
-
-## Daily #2 — [dd/mm/2026]
-
-Asistentes: [ ]  · Evidencia: `evidencias/evidencias-scrum/daily-2.png`
-
-| Integrante | ¿Qué hice? | ¿Qué voy a hacer? | ¿Impedimentos? |
-|---|---|---|---|
-| Santiago Barros | | | |
-| Iván Gómez | | | |
-| Samuel Pimienta | | | |
-| Juan Riaño | | | |
-
-**Acuerdos:**
-
----
-
-## Daily #3 — [dd/mm/2026]
-
-Asistentes: [ ]  · Evidencia: `evidencias/evidencias-scrum/daily-3.png`
-
-| Integrante | ¿Qué hice? | ¿Qué voy a hacer? | ¿Impedimentos? |
-|---|---|---|---|
-| Santiago Barros | | | |
-| Iván Gómez | | | |
-| Samuel Pimienta | | | |
-| Juan Riaño | | | |
-
-**Acuerdos:**
-
----
-
-## Daily #4 — [dd/mm/2026]
-
-Asistentes: [ ]  · Evidencia: `evidencias/evidencias-scrum/daily-4.png`
-
-| Integrante | ¿Qué hice? | ¿Qué voy a hacer? | ¿Impedimentos? |
-|---|---|---|---|
-| Santiago Barros | | | |
-| Iván Gómez | | | |
-| Samuel Pimienta | | | |
-| Juan Riaño | | | |
-
-**Acuerdos:**
+**Acuerdos:** integrar el PR #18 durante el Sprint Review y terminar el informe, las reflexiones y la presentación ese mismo día.
