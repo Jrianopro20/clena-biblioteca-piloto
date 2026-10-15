@@ -11,7 +11,7 @@
 
 ## Objetivo del Sprint
 
-> Identificar, formular y documentar un problema real en la Biblioteca Piloto del Caribe del CLENA y proponer una solución tecnológica fundamentada, con toda la evidencia en GitHub.
+> Identificar, formular y documentar un problema real en el Archivo Histórico del Atlántico (CLENA) y proponer una solución tecnológica fundamentada, con toda la evidencia en GitHub.
 
 ## Resultado esperado
 

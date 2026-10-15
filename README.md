@@ -1,4 +1,4 @@
-# Biblioteca Piloto del Caribe — Laboratorio de campo CLENA
+# Memoria Digital del Atlántico — Laboratorio de campo CLENA
 
 > Identificación de problemas y oportunidades de solución tecnológica en el CLENA (Aduana de Barranquilla).
 
@@ -6,7 +6,7 @@
 |---|---|
 | **Curso** | Introducción a la Ingeniería de Sistemas y Computación — Universidad del Norte |
 | **Docente** | Daniel Romero |
-| **Espacio del CLENA estudiado** | Biblioteca Piloto del Caribe |
+| **Espacio del CLENA estudiado** | Archivo Histórico del Atlántico |
 | **Fecha de la visita** | [26/09/2026] |
 | **Sprint** | Sprint 1 — [fecha inicio] a [fecha fin] |
 
@@ -23,9 +23,9 @@ Todos los integrantes forman parte del Development Team. Los roles no son jerár
 
 ## Descripción breve
 
-Observamos la **Biblioteca Piloto del Caribe** durante la visita al CLENA. Encontramos que su colección de **libros antiguos** solo puede consultarse manipulando ejemplares únicos y frágiles, en un proceso manual y restringido, lo que limita el acceso a ese patrimonio y lo expone al deterioro. Proponemos **digitalizar la colección** y publicarla en un **catálogo web con códigos QR** en sala, para que cualquiera pueda consultar el contenido sin tocar el original.
+Recorrimos el CLENA y escogimos el **Archivo Histórico del Atlántico**. Encontramos que los documentos históricos se guardan solo en papel, en cajas de cartón, y que su búsqueda y consulta dependen de un proceso manual a cargo del personal. Esto hace lenta la consulta, limita el acceso y expone documentos únicos al deterioro, en contraste con la Galería, que ya usa tecnología para contar la historia. Proponemos **"Memoria Digital del Atlántico"**: un inventario digital, la digitalización de los documentos y un portal web con códigos QR en la Galería.
 
-> **Nota sobre evidencias:** durante la visita (26/09/2026) el equipo no tomó fotografías porque aún no conocía los requisitos de este laboratorio. Las evidencias son registro testimonial de los integrantes e imágenes de referencia con fuente citada. Ver `evidencias/`.
+> **Nota sobre evidencias:** durante la visita (26/09/2026) el equipo tomó solo dos fotografías porque aún no conocía los requisitos de este laboratorio. Las demás evidencias son registro testimonial de los integrantes. Ver `evidencias/`.
 
 ## Estructura del repositorio
 

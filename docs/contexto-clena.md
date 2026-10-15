@@ -19,9 +19,11 @@ La **Corporación Luis Eduardo Nieto Arteta (CLENA)** es la institución que adm
 | **Biblioteca Infantil Piloto del Caribe** | Espacio de lectura y actividades para niños. |
 | **Centro Interactivo de Memoria Urbana – Galería de la Aduana** | Espacio expositivo sobre la memoria de la ciudad. |
 
-## Espacio seleccionado por el equipo: Biblioteca Piloto del Caribe
+## Espacio seleccionado por el equipo: Archivo Histórico del Atlántico
 
-[Describir aquí el espacio después de la visita: horario, quién lo atiende, qué servicios ofrece, cuántas personas lo usan aproximadamente, cómo está organizado físicamente.]
+El Archivo Histórico del Atlántico conserva el patrimonio documental del departamento: registros, censos, planes de desarrollo y propuestas urbanísticas. En la visita se vio la zona de atención al público y, detrás, el depósito con **estanterías metálicas y cajas de cartón** donde se guardan los documentos (`evidencias/fotografias/foto-02`). El usuario no entra al depósito: pide los documentos al personal.
+
+En el mismo edificio, el **Centro Interactivo de Memoria Urbana** cuenta la historia de Barranquilla con proyecciones y ambientación interactiva (`foto-01`). Ese contraste entre una exhibición tecnológica y un archivo manual es el punto de partida de nuestro análisis.
 
 ## Fuentes
 
