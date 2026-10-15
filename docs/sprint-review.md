@@ -2,33 +2,35 @@
 
 | Campo | Valor |
 |---|---|
-| **Fecha** | [dd/mm/2026] |
-| **Medio** | Microsoft Teams |
-| **Asistentes** | |
-| **Evidencia** | `evidencias/evidencias-scrum/sprint-review.png` |
+| **Fecha** | 14/10/2026 |
+| **Medio** | Microsoft Teams (pantalla compartida) |
+| **Asistentes** | Juan Riaño, Iván Gómez |
+| **Evidencia** | `evidencias/evidencias-scrum/03-sprint-review.png` |
 
 ## 1. Problema identificado
-[Resumen en 2–3 líneas, enlazar a `problema/problema-seleccionado.md`]
+Los documentos históricos del Archivo Histórico del Atlántico solo existen en papel, guardados en cajas de cartón. Su búsqueda y consulta son manuales y desgastan los originales. Ver `problema/problema-seleccionado.md`.
 
 ## 2. Evidencias de observación
-[Cantidad de fotos y videos, entrevista realizada, enlaces a `evidencias/`]
+- 2 fotografías propias de la visita: el depósito del Archivo con las cajas y la Galería interactiva.
+- Registro testimonial de los 4 integrantes.
 
 ## 3. Avances
 
 | Entregable | Estado | PR |
 |---|---|---|
-| README | ✅ / 🔄 / ❌ | #_ |
-| Observaciones | | #_ |
-| Problemas identificados | | #_ |
-| Problema seleccionado | | #_ |
-| Propuesta de solución | | #_ |
-| Evidencias | | #_ |
-| Informe final | | #_ |
+| README | ✅ | #18 |
+| Observaciones | ✅ | #18 |
+| Problemas identificados (4) | ✅ | #18 |
+| Problema seleccionado | ✅ | #18 |
+| Propuesta de solución | ✅ | #18 |
+| Evidencias fotográficas | ✅ | #18 |
+| Ceremonias Scrum | ✅ | este PR |
+| Informe final | 🔄 | — |
+| Reflexiones individuales | 🔄 | — |
+| Presentación | 🔄 | — |
 
 ## 4. Propuesta
-[Resumen de la solución, enlazar a `propuesta/propuesta-solucion.md`]
+**Memoria Digital del Atlántico**: inventario digital de las cajas, digitalización de los documentos, portal web con buscador y códigos QR en la Galería que conectan la exhibición con los documentos originales. Ver `propuesta/propuesta-solucion.md`.
 
-## 5. Estado del proyecto
-- Tareas en Done: _ / _
-- Pendientes:
-- Retroalimentación recibida:
+## 5. Resultado
+El PR #18 fue revisado y aprobado por Iván Gómez (@Ivan200608), quien también hizo el merge a `main` durante la llamada.

@@ -15,7 +15,7 @@
 | Integrante | Rol Scrum | Responsabilidad adicional | Usuario GitHub |
 |---|---|---|---|
 | Santiago Barros | Product Owner | Prioriza el backlog y valida el problema seleccionado | @[usuario] |
-| Iván Gómez | Scrum Master | Convoca y documenta las ceremonias en Teams | @[usuario] |
+| Iván Gómez | Scrum Master | Convoca y documenta las ceremonias en Teams | @Ivan200608 |
 | Samuel Pimienta | Development Team | Responsable de evidencias (fotos y videos) | @[usuario] |
 | Juan Riaño | Development Team | Responsable de documentación y administración del repo | @Jrianopro20 |
 
