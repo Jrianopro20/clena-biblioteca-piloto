@@ -33,4 +33,4 @@ Los documentos históricos del Archivo Histórico del Atlántico solo existen en
 **Memoria Digital del Atlántico**: inventario digital de las cajas, digitalización de los documentos, portal web con buscador y códigos QR en la Galería que conectan la exhibición con los documentos originales. Ver `propuesta/propuesta-solucion.md`.
 
 ## 5. Resultado
-El PR #18 fue revisado y aprobado por Iván Gómez y se integró a `main`.
+El PR #18 fue revisado y aprobado por Iván Gómez (@Ivan200608), quien también hizo el merge a `main` durante la llamada.

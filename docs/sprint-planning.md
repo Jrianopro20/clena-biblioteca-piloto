@@ -14,7 +14,7 @@
 
 ## Objetivo del Sprint
 
-> Identificar y documentar un problema real del Archivo Histórico del Atlántico (CLENA) y proponer una solución tecnológica, con toda la evidencia en GitHub.
+> Identificar y analizar un conflicto real del Archivo Histórico del CLENA y proponer una solución tecnológica, con toda la evidencia en GitHub.
 
 ## Roles
 
